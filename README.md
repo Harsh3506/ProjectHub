@@ -1,1 +1,1 @@
-"# ProjectHub" 
+Implemented a project management application to simplify project creation, collaboration.features include a user invitation system, project tracking, to foster efficient teamwork. Developed the backend using Spring Boot and MySQL, and implemented secure user authentication with JWT Authentication and Spring Security. Enhanced user experience by integrating email notifications.
